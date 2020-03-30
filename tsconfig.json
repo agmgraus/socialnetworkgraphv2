@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "target": "ES5",
+        "sourceMap": true,
+        "outDir": "./.tmp/build/",
+        "sourceRoot": "../../src/"
+    },
+    "files": [
+        "./src/visual.ts",
+        "src/model3.ts",
+        "./src/settings.ts"
+    ]
+}

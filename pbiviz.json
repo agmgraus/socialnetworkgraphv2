@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "socialNetworkGraph",
+        "displayName": "Social Network Graph",
+        "guid": "socialNetworkGraph99E9F31DDFD7429BACA50118466E4D11",
+        "visualClassName": "Visual",
+        "version": "2.1.28",
+        "description": "Social Network Graph",
+        "supportUrl": "http://www.arthurgraus.nl/contact.html",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "2.6.0",
+    "author": {
+        "name": "Arthur Graus",
+        "email": "info@arthurgraus.nl"
+    },
+    "assets": {
+        "icon": "assets/stakeholderMap.png"
+    },
+    "externalJS": null,
+    "style": "style/stakeholderMap.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
