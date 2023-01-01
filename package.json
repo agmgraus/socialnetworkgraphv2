@@ -12,7 +12,7 @@
     "supportUrl": "http://www.arthurgraus.nl/contact.html",
     "devDependencies": {
         "@types/d3": "^5.7.2",
-        "ts-loader": "5.2.2",
+        "ts-loader": "9.4.2",
         "typescript": "3.0.1"
     },
     "dependencies": {
